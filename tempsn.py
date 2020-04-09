@@ -9,6 +9,7 @@ import json
 import serial
 import os
 
+#this is for github test
 #echo修改/etc/config/system文件,echo.输出一个空行
 os.system("echo \"Hello World\"")
 os.system("echo config system 'system' > dhb333")
