@@ -1,2 +1,0 @@
-hello
-my gateway is 21012C0000C1
